@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 162, 182);
+    color: rgb(255, 255, 255);
+    font-family: 'Verdana';
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    background-color: brown;
+    padding: 20px;
+}
+
+.one{
+    color:rgb(255, 255, 255);
+
+} 
+
+#two{
+    font-size: 20px;
+    color: antiquewhite;
+
+}
+
+.nami{
+    width: 600px;
+    border-radius: 5%;
+}
